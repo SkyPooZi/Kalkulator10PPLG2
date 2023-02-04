@@ -89,4 +89,13 @@
 
     </LinearLayout>
 
+    <TextView
+        android:layout_marginTop="100dp"
+        android:text="By:Moch Siril Wafa Zidane Feliano"
+        android:textColor="@color/black"
+        android:textSize="10pt"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
